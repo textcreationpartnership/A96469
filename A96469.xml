@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dissection of the braine. A sermon preached at the assises in Lincoln Anno 1640. / By Michael Wigmore Rector of Thoresway in Lincolnshire, and sometimes fellow of Oriel-Colledge in Oxenford.</title>
+            <author>Wigmore, Michael, 1588 or 9-1664?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96469</idno>
+            <idno type="STC">Wing W2111</idno>
+            <idno type="STC">Thomason E175_17</idno>
+            <idno type="STC">ESTC R23433</idno>
+            <idno type="EEBO-CITATION">99871996</idno>
+            <idno type="PROQUEST">99871996</idno>
+            <idno type="VID">157085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157085)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E175[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dissection of the braine. A sermon preached at the assises in Lincoln Anno 1640. / By Michael Wigmore Rector of Thoresway in Lincolnshire, and sometimes fellow of Oriel-Colledge in Oxenford.</title>
+                  <author>Wigmore, Michael, 1588 or 9-1664?</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. N. for William Leake, and are to be sold at his Shop in Chancery-Lane neere the Rowles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On page 19: "May 29. 1641. Imprimatur Tho Wykes.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah IX, 15 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157085:1"/>
+            <pb facs="tcp:157085:1" rendition="simple:additions"/>
+            <p>A DISSECTION OF THE BRAINE. A SERMON PREACHED AT THE ASSISES IN LINCOLN ANNO 1640.</p>
+            <p>By <hi>Michael Wigmore</hi> Rector of THORESWAY in LINCOLN-Shire, and ſometimes Fellow of <hi>Oriel</hi>-Colledge in <hi>Oxenford.</hi>
+            </p>
+            <q>
+               <hi>Ponit perſonam amici qui induit Iudicis.</hi> 
+               <bibl>
+                  <hi>Tull. Off. l.</hi> 3.</bibl>
+            </q>
+            <p>LONDON: Printed by <hi>A. N.</hi> for WILLIAM LEAKE, and are to be ſold at his Shop in <hi>Chancery-Lane</hi> neere the Rowles. 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:157085:2"/>
+            <pb facs="tcp:157085:2"/>
+            <head>To the right Reverend Father in God, <hi>IOHN</hi> Lord Biſhop of <hi>LINCO<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>N,</hi> &amp;c.</head>
+            <opener>
+               <salute>Right Reverend and thrice Honourable</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S tending to its proper place, this ſmall peece begs your Lordſhips Patronage being delivered in your juriſdiction. Your <hi>luſtre</hi> danteth in the attempt: The <hi>ſweetneſſe</hi> of your <hi>diſpoſition</hi> gives encouragement.</p>
+            <p>
+               <hi>The matter</hi> doth deſerve your protection, being <hi>Iuſtice inviolated,</hi> like <hi>Virgo, placed in</hi> the Zodiack betweene thoſe two ſignes of <hi>Leo</hi> and <hi>Libra,</hi> thoſe two ſupporters of <hi>cou<g ref="char:EOLhyphen"/>rage</hi> and Equity: <hi>The publication</hi> hath taken wing, being borne up with other mens de<g ref="char:EOLhyphen"/>ſires, <hi>The Author</hi> doth lie proſtrate before you, <hi>Let thy Servant be a Servant</hi>
+               <note place="margin">1 Sam. 25. 41.</note>
+            </p>
+            <closer>
+               <signed>To waſh the feet of the Servants of my Lord, MICHAEL WIGMORE.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:157085:3"/>
+            <head>Ad Lectorem.</head>
+            <p>QUiſquis haec legit, ubi pariter certus eſt, pergat mecum, ubi pariter haeſitat, quaerat mecum, ubi errorem ſuum cognoſcit, redeat ad me, ubi meum, revocetur. <hi>Aug.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:157085:3"/>
+            <head>A DISSECTION OF THE BRAINE.</head>
+            <head type="sub">A Sermon Preached at LINCOLN-Aſſiſes.</head>
+            <epigraph>
+               <bibl>ESAY 9. 15.</bibl>
+               <q>The Ancient and Honourable, He is the head.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honourable<g ref="char:punc">▪</g> &amp;c. If I be not mi<g ref="char:EOLhyphen"/>ſtaken in mine<g ref="char:punc">▪</g> apprehenſion, I am here to be your ghoſtly Father, That before you give the Charge to the Country from our Soveraign Lord the King, I ſhould give you your Charge from him that's King of Kings, and Lord of Lords; <hi>And now we as Ambaſſadors for Chriſt, as</hi>
+               <note place="margin">2 Cor. 5. 20.</note> 
+               <hi>though God did beſeech you by us wee pray you in Chriſts ſtead, that ye be reconciled unto God.</hi>
+            </p>
+            <p>Yet ſo, that as the pretious oyntment, which being pow<g ref="char:EOLhyphen"/>red<note place="margin">Pſal. 13<g ref="char:punc">▪</g> 2.</note> upon the head, it may runne downe unto the beard, and ſo along to the skirts of the garment<g ref="char:punc">▪</g> we being all the mem<g ref="char:EOLhyphen"/>bers of that Body, whoſe Leggs and Thighes are of iron and<note place="margin">Dan. 2. 31.</note>
+               <pb n="2" facs="tcp:157085:4"/> braſſe for patience and induſtry in labour and travaile, whoſe Sides of ſilver for ſincerity and loyalty, whoſe Head of gold for perfection and purity; within the circumference of whoſe preheminence are the Braines, the Councellours of Juſtice, and Judgement, which onely doe reflect upon this preſent occaſion, as <hi>The Ancient and Honourable Hee is the Head.</hi> But before we aſcend that ſtately Pharus, or doe diſ<g ref="char:EOLhyphen"/>cover<note place="margin">Diviſion.</note> thoſe inward Cells, we muſt firſt take a generall view of the Body, Then help on with thoſe Robes of gravity as they lie folded up in thoſe two pleats, the one of Age, and the other of Honour, and ſo lead you through thoſe cooler vaults and regions; And firſt of the firſt in the Body po<g ref="char:EOLhyphen"/>litick.</p>
+            <p>After that God had made the whole world, inſo many<note place="margin">Firſt part. Of the Body poli<g ref="char:EOLhyphen"/>tick.</note> different and repugnant natures, Then like a curious and ex<g ref="char:EOLhyphen"/>quiſite workman, that's moſt admired in his leaſt peeces, and ſhewes his greateſt Art in the ſmalleſt bulk, he doth con<g ref="char:EOLhyphen"/>tract them into one little modell, and doth unite them all in man: In whoſe ſoule he hath ſeated his owne image in a Trinity of Faculties, and an Unity of Eſſence, which beau<g ref="char:EOLhyphen"/>tiſies the Head with two greater lights, and a many other, to diſcerne of more Objects, then is the number of the ſtarres in the firmament; His bones lie covered over with their fleſh, as rocks lie hidden in the bowells of their earth, about his liver is a ſea of blood, diſperſed over all this little world, with a many flexible veines and rivers: Hee hath growth, and ſenſe, and underſtanding, The lives of Plants, of Beaſts, of Angels; And if we doe but look into his heart, there ſhall wee finde, as ſleeping in their dennes, the roaring Lion, and the ſubtill Fox, the ravening Wolfe, the Goat, the Swine, with all the Town-heard of the <hi>beasts of Epheſus,</hi> which be<g ref="char:EOLhyphen"/>ing<note place="margin">1 Cor. 15. 32.</note> rowſed, doe break forth in paſſion: As in the Creation the whole world was in man, ſo in the Redemption the whole world was one man: <hi>Et omnis in Chriſto unus ho<g ref="char:EOLhyphen"/>mo, Knit together by joynts and bands,</hi> and like that multi<g ref="char:EOLhyphen"/>tude<note place="margin">Col. 2. 19. Acts 4. 32.</note> in the fourth of the <hi>Acts, That had but one heart, and one ſoule.</hi>
+            </p>
+            <pb n="3" facs="tcp:157085:4"/>
+            <p>
+               <hi>Plato</hi> would have the Univerſe the World to be <hi>Dei ſta<g ref="char:EOLhyphen"/>tua,</hi> the portrature of God, and Saint <hi>Gregory</hi> would have a Chriſtian Common-wealth, to be <hi>Corpus unitum compage membrorum;</hi> ſo to grow up into him in all things, which is the Head, even Chriſt.</p>
+            <p>Then, as it is in <hi>the naturall body, if one part ſuffered, the</hi>
+               <note place="margin">1 Cor. 12. 26.</note> 
+               <hi>reſt would grieve</hi> with it, And if the leaſt finger were but out of joynt, the Eye would be ready to ſhed a teare, the Heart would ake, the Head be ſorrie, the Tongue to com<g ref="char:EOLhyphen"/>plaine, the Legs and Feet to runne for help: <hi>Then would we</hi>
+               <note place="margin">Gal. 6. 2.</note> 
+               <hi>beare one anothers burthens,</hi> as every ſtone in a materiall building, <hi>et portat, et portatur ab altero;</hi> Then would each one keepe Court at home where every Senſe ſhould be an Agent, and every Faculty ſhould be an officer; <hi>Patience</hi> his <hi>Councellour, Truth</hi> his <hi>Attourney, Peace</hi> his <hi>Solicitor, Senſus Communis</hi> his <hi>Common-pleas,</hi> a <hi>Tender-conſcience</hi> his <hi>Court of Chauncerie,</hi> whoſe <hi>Judge</hi> ſhould be <hi>Charity,</hi> whoſe <hi>Seale of Office,</hi> the <hi>Holy-Ghoſt</hi> in the likeneſſe of a Dove.</p>
+            <p>This were to bring a Vine out of <hi>Egypt,</hi> to make her<note place="margin">Pſal. 8. 8 &amp;c.</note> boughes like the goodly Cedars, and they that ſhould de<g ref="char:EOLhyphen"/>voure it, ſhould root up that plant, who ſaith unto us, you are the branches; This were to flouriſh like the Tree in <hi>Da<g ref="char:EOLhyphen"/>niel,</hi>
+               <note place="margin">Dan. 4.</note> the heighth whereof did reach unto the Heavens, And hee that ſhould but lop a limb from off it, ſhould heare a voyce crying unto him as <hi>Aeneas</hi> once, <hi>Polydorus ego,</hi> when He pluckt a bough from the Myrtle tree, <hi>I am Jeſus whom</hi>
+               <note place="margin">Act. 9. 5.</note> 
+               <hi>thou perſecuteſt, parce pias ſcelerare manus.</hi>
+            </p>
+            <p>He that united the earth and the heavens, and all other creatures to make them one world; He that contracted all contrarieties, and did compoſe them all in one man; Hee that hath ſquared us as living ſtones to grow up into one holy Temple, The King of <hi>Salem,</hi> the King of Peace, would have us all as a Citie of Unity, as the boughes of one ſtock, as the branches of one Vine, as the members of one body, un<g ref="char:EOLhyphen"/>der one Head, which is Chriſt Jeſus.</p>
+            <p>But as it was with <hi>Abraham</hi> and <hi>Lot affluxerunt divitiae</hi>
+               <note place="margin">Diſeaſes of this body. <hi>Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yſoſt.</hi>
+               </note> 
+               <hi>&amp; diſcinditur concordia,</hi> as Wealth encreaſed, Amity de<g ref="char:EOLhyphen"/>creaſed,
+<pb n="4" facs="tcp:157085:5"/> and wee are here fallen all in peeces, as if wee had beene but cimented together, with ſome fuſile and melting matter, now diſſolved by the fire of Contention.</p>
+            <p>S. <hi>Auguſtine</hi> tells us of a brutiſh cuſtome in <hi>Caeſaria</hi> of <hi>Mauritania,</hi> that on certaine dayes of the yeare, the people gathered themſelves together, and (as if they had beene all enrag'd with madneſſe) Fathers, and Children, and neigh<g ref="char:EOLhyphen"/>bours with others, threw ſtones with ſuch violence, one againſt another, as that not a few were murthered with it: A fit reſemblance of this <hi>Campus Martius</hi> in theſe dog-dayes of ſtrife and contention; <hi>When we ſhall finde five in one houſe,</hi>
+               <note place="margin">L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 12 52. 53.</note> 
+               <hi>three againſt two, and two againſt three, the Father divided againſt the Sonne, and the Mother againſt the Daughter,</hi> their hearts reaking with paſſion within them, as if they had ſuckt the Dragons in the Deſert; and like that vaſt and untamed Element <hi>foaming out their owne ſhame.</hi> Some come hither<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13.</note> l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke the <hi>Mermayd</hi> and the <hi>Dolphin,</hi> who take their paſtime in troubled waters, and with <hi>Abner</hi> call fighting ſport, <hi>let</hi>
+               <note place="margin">2 Sam. 2. 14.</note> 
+               <hi>the young men ariſe and play before us:</hi> Others, for as ſmall provocations as <hi>Jonas</hi> had to be angry with his God, onely<note place="margin">Ionah 4. 6. 8.</note> a blaſt of winde, a ſhadow, like thoſe that runne to Chirur<g ref="char:EOLhyphen"/>gions and Phyſicians, for every trifle, a Pimple or a Wart, whereas the Phyſician and the Lawyer ſhould bee for ne<g ref="char:EOLhyphen"/>ceſſity, and not for wantonneſſe. <hi>Envie</hi> comes ſwelling hi<g ref="char:EOLhyphen"/>ther like a Toad, waiting a time to diſgorge it ſelfe, and goes a way again like the Waſp, which leaves his ſting, and his ſtrength behinde him; The <hi>proud man</hi> ſtriving with a ſtronger then himſelfe, as <hi>Milo</hi> rending an Oake in ſunder, is caught ſo faſt in the cleſt by the fingers, that he becomes a prey to his Enemie; But loudeſt of all is the crie of <hi>Oppreſſi<g ref="char:EOLhyphen"/>on,</hi> who comes in like <hi>Nero</hi> in the Tragedy, <hi>Fortuna noſtra cuncta permittit mihi,</hi> And where the <hi>Foxes</hi> doth prove too ſcanty, hee'll inch it out with the <hi>Lions</hi> skinne, <hi>to grind the faces</hi> of the poore, <hi>to devoure the widdowes</hi> houſes, and that peradventure with as much equity, as he that layd claime to <hi>Tullies</hi> learning, becauſe he married his Executrix.</p>
+            <p>Saint <hi>Paul</hi> would have ſuch Harmony betweene us, as<note place="margin">1 Cor. 12.</note>
+               <pb n="5" facs="tcp:157085:5"/> is amongſt the members of the body; and Saint <hi>Auguſtine</hi> would have every man to be as a ſeverall letter in the ſame ſentence, <hi>Quilibet (inquit) in Civitate ſit una litera in Sermone;</hi> Were this accord kept in humane Societie, Then each foule word would be a <hi>Barbariſme,</hi> and he that ſhould but wrong his neighbour, ſhould be as one that is ſick of a phrenſie, biting and wounding his owne fleſh; But here we finde ſuch diſcord and diſſention, ſuch ſcratch<g ref="char:EOLhyphen"/>ing and tearing one of another, as if we would chooſe the <hi>Bramble</hi> for our King, to <hi>put our truſt under his ſhadow.</hi>
+               <note place="margin">Jud. 9. 15.</note>
+            </p>
+            <p>It was a cuſtome amongſt the <hi>Perſians</hi> (to make them feele the ſmart of <hi>Anarchie</hi>) that at the death of every Emperour their lawes did ſleep for five dayes, and every man in that <hi>interſtitium</hi> did what was good in his owne eyes; whether would the ſwinge of our paſſions fling us, were we not bounded with Authority, which limiteth our turbulent perturbations? (as God once ſpake unto the Sea) <hi>hither unto ſhalt thou goe and no further:</hi> But the ra<g ref="char:EOLhyphen"/>pacity<note place="margin">Job 38. 11.</note> of theſe Orbes are ſlacked by the courſe of the high<g ref="char:EOLhyphen"/>er Sphaeres, Nature never yet framed an heart, but where there was a braine to coole it; and <hi>the Ancient and Honou<g ref="char:EOLhyphen"/>rable He is the Head,</hi> which beckens mee unto my ſecond Cloſe, the <hi>Torſe,</hi> that wreath of <hi>Or</hi> and <hi>Argent,</hi> in thoſe Appellatives of <hi>Age</hi> and <hi>Honour.</hi>
+            </p>
+            <p>It was an inviolable cuſtome with the Romans, never<note place="margin">The ſecond part: 1. Of the Ancient. 1. Their Gra<g ref="char:EOLhyphen"/>vity.</note> to give ſentence but ſitting, in token that Judgment ought to proceed from a ſtay'd and well ſetled minde; And tis an obſervation in Philoſophie, That <hi>nimius calor agitatio<g ref="char:EOLhyphen"/>nem efficit, cognitio quietem &amp; ſtabilitatem requirit:</hi> The Braine that muſt diſperſe thoſe former ſumes had need to be of a ſtrong conſtitution, <hi>Et tunc mentis oculi vident per<g ref="char:EOLhyphen"/>ſpicatius, cum corporis oculi defloreſcunt:</hi> Greateſt At<g ref="char:EOLhyphen"/>chivements are not managed ſo much by ſtrength as they are by wiſedome; whence the <hi>Sanhedrim</hi> amongſt the<note place="margin">Numb. 11. 16.</note> Jewes was of the Elders of the people, as the <hi>Senate</hi> with the Romans had it's nomination <hi>a Senio</hi> from Old-age.</p>
+            <pb n="6" facs="tcp:157085:6"/>
+            <p>It's often found, that the luſtre of the minde looking forth through the countenance of Man, doth dart ſuch a terrour upon the Beholder, that the Heads-man let his ſword drop from his hand, when Hee beheld the face of <hi>Marius;</hi> And in the hotteſt eommotions of the People, Even then when ſedition hath been ſtaring mad, the grave aſpect of ſome reverend Perſonage hath ſo becalmed, and allayed the furie, as that Madneſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath beene turned in<g ref="char:EOLhyphen"/>to ſhame</p>
+            <lg>
+               <l>Tum pietate Gravem, ac meritis ſi fortè virum quem</l>
+               <l>Conſpexere, ſilent, arrectiſque auribus adſtant,</l>
+               <l>Ille regit dictis animos &amp; pectora mulcet.</l>
+            </lg>
+            <p>If ſo, then well may the wrinkled brow become the ſeat of Command and Power, whoſe furrowes have beene ſowen with the ſeeds of Vertue—<hi>Et Seges est ubi Troia fuit;</hi> Whoſe deſpiſed Characters of Age doe beare the Eſcuchions, and fore-fronts of wiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dome, which onely waxeth young and freſh with yeares; And in whoſe vi<g ref="char:EOLhyphen"/>ſage onely doth appeare a Transfiguration o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Feare and<note place="margin">Exod 34 30.</note> Reverence, as <hi>Moſes</hi> after his Conference with God, the people were afraid to look upon him.</p>
+            <p>As Authority dazeleth with its ſplendour, being a Me<g ref="char:EOLhyphen"/>dall<note place="margin">2 Their Ma<g ref="char:EOLhyphen"/>turity. Dan. 7 9. Ecclus. 25. 6.</note> caſt in his mold, who beares the name of the <hi>Ancient of Dayes,</hi> ſo is <hi>Experience the Crowne of Old men,</hi> which ripens the underſtanding of the Aged, And makes them ſpeak as the Oracles of God; <hi>No man when hee hath taſted</hi>
+               <note place="margin">Luk. 5. 39.</note> 
+               <hi>Old wine deſireth new, for the Old is better,</hi> and <hi>Certiora ſunt judicia ſenum, qui d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> res eaſdem cogitarunt, &amp; ſurſum ac deorſum volutarunt.</hi> The prerogative of Infancie, is Inno<g ref="char:EOLhyphen"/>cencie; of childhood, wantonneſſe; of manhood, valour; of old-age, diſcretion: Roſes that are freſh are more plea<g ref="char:EOLhyphen"/>ſant in the flower, yet being dry give a ſweeter ſent, And it was <hi>Antigonus</hi> his judgement of <hi>Pyrrhus, Magnum fu<g ref="char:EOLhyphen"/>turum ſi ſeneſceret;</hi> The Spring indeed is lovely for it's hopes, B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Autumne onely is for fruit, which bring<g ref="char:EOLhyphen"/>eth that maturity with it, as maketh wiſedome a skilfull
+<pb n="7" facs="tcp:157085:6"/> Pilot; <hi>The hoarie Head is a Crowne of glory, if it be found</hi>
+               <note place="margin">Prov. 16. 31.</note> 
+               <hi>in the way of truth.</hi>
+            </p>
+            <p>And where ſhould wee ſeeke for Righteouſneſſe and 3.<note place="margin">Their ſince<g ref="char:EOLhyphen"/>rity.</note> Judgement, if not under theſe Winter colours? 'Tis true <hi>that the gift blindeth the wiſe, and perverteth the wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds of the</hi>
+               <note place="margin">Exod 23. 8.</note> 
+               <hi>righteous;</hi> But when our forces begin to languiſh, when our ſenſes wax dull and dimme, when the ruinous Cot<g ref="char:EOLhyphen"/>tage of our feeble fleſh is decayed, and threatneth a finall fall, then when like <hi>Aaron</hi> in the Camp o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Iſrael,</hi> wee ſtand betweene the living and the dead; Then when <hi>the</hi>
+               <note place="margin">Eccles. 12. 3.</note> 
+               <hi>Keepers of the houſe doe tremble, and the ſtrong men doe bow themſelves;</hi> Then to lade our ſelves with <hi>thick lay; Po<g ref="char:EOLhyphen"/>test</hi>
+               <note place="margin">Hab. 2. 6.</note> 
+               <hi>quicquam eſſe abſurdius, quàm quo minus vitae reſtat, eo pl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> viatici quaerere?</hi>
+            </p>
+            <p>In the 13 of <hi>Geneſis</hi> at the ſecond verſe, where it is ſaid that <hi>Abraham</hi> was rich, the Hebrew gives it that he was heavie, which ſhewes that Riches are but a Burth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and like thoſe Mathematicall ſhowers, which in the twy<g ref="char:EOLhyphen"/>light ſeeme to be gold, yet when the light comes prove lime and ſand: But <hi>a wiſe mans eyes ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his head;</hi> And<note place="margin">Eccles. 2 14.</note> 
+               <hi>maledictus quitran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t terminos,</hi> Curſed is the ſtate of that man, that removeth the Bounders of Nature; that when time hath filed from him the better part of his vitall pow<g ref="char:EOLhyphen"/>ers, ſtill feeds himſelfe with the Hope of life, and puts the Day of his death farre from him. And thus much of my firſt Epethite; Thus much in honour of the Aged.</p>
+            <p>Yet let not the rigid cenſure of any ſo eſteem of wiſdom<note place="margin">Secondly, Of the honorable.</note> and policie, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f thoſe gifts might not be ſhrowded un<g ref="char:EOLhyphen"/>der the ſhadowes of freſher colours: The <hi>Romans</hi> did ad<g ref="char:EOLhyphen"/>mit of a <hi>Senator,</hi> at the Age of twenty and five, and of a <hi>Conſull</hi> at forty three, <hi>Daniel</hi> but young, yet judged the people, and <hi>Ioſeph</hi> a man of tender age, was made a Father to <hi>Pharaoh</hi> and his family,</p>
+            <q>—<hi>Tempora quippe virtutem non prima negant, non ultima donant.</hi>
+            </q>
+            <p>When <hi>Frederick</hi> the third refuſed to give Audience to
+<pb n="6" facs="tcp:157085:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:157085:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:157085:8"/> two young men Ambaſſadours from <hi>Venice,</hi> If (ſaid they) the State had knowne, that <hi>Caeſar</hi> had regarded of wiſe<g ref="char:EOLhyphen"/>dome by the gray head, and the long beard, they ſhould have ſent him a couple of Goats; <hi>For Honourable Age is not that which ſtandeth in the length of time, nor that is meaſured by number of yeares, but wiſedome is the gray haire unto man, and an unſpotted life is Old age.</hi> Wiſd. 489.</p>
+            <p>So that as the workman in the Buckler of <hi>Minerva</hi> wrought in his owne Name, with ſuch dexterity as that it could not be taken out, without the diſſolution of the whole frame, ſuch is <hi>Prudence</hi> to <hi>Age</hi> and <hi>Honour.</hi> What is a ſcarlet Robe without it, but like rich Hangings in a dark blinde roome, where there is neither light nor life to ſhew them? The ſhadowes of the faireſt Ornaments doe caſt as black as the mourning weed; And the diſgrace that attendeth baſeneſſo is the ſelfe-ſame in the Peere and the Peſant; but that (as the Ape) the higher hee climeth, by ſo much the more conſpicuous is his ſhame. The ſcan<g ref="char:EOLhyphen"/>dalous proceedings of men in Authority, which would have beene covered in a common crowd, are then made eminent and blazing, like the Comet that's gazed at by every eye, yet knowes not it ſelfe to be ſeene of any.</p>
+            <p>Honour is a ſigne to ſhew where Vertue dwelleth, and their minds are too narrow for a publick-weale, who think they are advanced for themſelves, where <hi>He that is</hi>
+               <note place="margin">Luk. 22. 26.</note> 
+               <hi>greateſt ſhould be leaſt, and He that is Chiefeſt as him that ſerveth.</hi> And then where <hi>Age, Maturity, Sincerity,</hi> and <hi>Honour,</hi> is attended by <hi>diſcretion,</hi> where there is this Con<g ref="char:EOLhyphen"/>junction and Aſpect, <hi>Iupiter</hi> is Lord in that Aſcent; that Body's governed by a lucky Planet, where the <hi>Ancient and Honourable Hee is the Head;</hi> and ſo much for the ſe<g ref="char:EOLhyphen"/>cond ſtraine; ſo much of the Garland and outward Or<g ref="char:EOLhyphen"/>nament.</p>
+            <p>I muſt now lead you about Mount <hi>Cephalon,</hi> there to<note place="margin">The third part, Of the Head or Braine.</note> behold the ſeats of Judgement; within whoſe Arches you ſhall finde the Braine foſtered by two mothers, like
+<pb n="9" facs="tcp:157085:8"/> 
+               <hi>Salomons</hi> Harlots, <hi>Dura Mater,</hi> and <hi>Pia Mater,</hi> the one<note place="margin">1 Kings 3.</note> ſevere to puniſh and correct, the other tender with the Bowells of Compaſſion; As the ſcarlet Robe that's fac'd with white doth ſignifie <hi>ruborem in ſontes &amp; ſcelestos, &amp; candorem in innocentes;</hi> And firſt of the firſt, the <hi>Dura Mater.</hi>
+            </p>
+            <p>As Diſeaſes are bred in the Body, ſo are Corruptions<note place="margin">1. Dura Mater.</note> in the ſtate. Thoſe which at firſt were not diſcerned, or might have beene holpen with a gentle purg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, being neg<g ref="char:EOLhyphen"/>lected, doe grow to that heighth, as not to be cured but by loſſe of blood, and then (as <hi>Livie</hi> ſpeakes of old <hi>Rome) Nec vitia noſtra, nec remedia ferre poſſumus:</hi> For the pre<g ref="char:EOLhyphen"/>vention of which Malady we muſt deale with tranſgreſ<g ref="char:EOLhyphen"/>ſions as men doe with Serpents, Hee that findes a young Snake which never did hurt, yet kills it for the very Kind, <hi>nor ſhall thine eye take pitty upon any to juſtifie the</hi>
+               <note place="margin">Deut. 19. 21.</note> 
+               <hi>evill doer.</hi>
+            </p>
+            <p>The leaſt treſpaſſe in the law Leviticall, were it but a<note place="margin">Levit. 4.</note> ſlip of Ignorance, yet was not purged without fire and blood, and in the Goſpell, where Mercie aboundeth, Hee that looks upon a woman, Hee that calleth thou Foole, not a word, not a look, that ſhall paſſe unpuniſhed; <hi>Fru<g ref="char:EOLhyphen"/>ſtra moritur Nero, ſi Otho vivit,</hi> In vaine it were to cut off the great Theeves, and to preſerve the little ones for breed.</p>
+            <p>There's not the leaſt offence we can commit that can be leſſe then the point of a thorne; yet not the leaſt thorn in the Crowne of Chriſt, which did not coſt him a drop of blood, and as the ſmalleſt Coine, the Widowes Mite, is not without it's valuation, but may be multiplied into a Talent, ſo in the great and generall Aſſiſes (the prototype of Juſtice and Judgement) we muſt not <hi>looke to come ſorth</hi>
+               <note place="margin">Math. 5. 26.</note> 
+               <hi>of priſon untill wee have payd the uttermoſt farthing:</hi> upon good grounds then doth that one word <hi>Noxa</hi> ſignifie <hi>et culpam et paenam,</hi> ſince ſinne and puniſhment muſt goe to<g ref="char:EOLhyphen"/>gether. <hi>Authority</hi> the Prop of Government, <hi>Majeſtas Im<g ref="char:EOLhyphen"/>perij,
+<pb n="10" facs="tcp:157085:9"/> ſalutis tutela,</hi> the ſtrength and fortreſſe of a Com<g ref="char:EOLhyphen"/>mon-wealth muſt be maintained with <hi>feare</hi> and <hi>ſeverity,</hi> whereas <hi>Facility</hi> breeds <hi>Impunity,</hi> the Mother of <hi>Preſump<g ref="char:EOLhyphen"/>tion</hi> and <hi>Contempt,</hi> and then, as a multitude of ſmaller drops ſwells up a Flood to over-flow the Banks; ſo doth <hi>Indul<g ref="char:EOLhyphen"/>gence</hi> and too much <hi>lenitie</hi> breed ſuch a generall Apoſteme in mens minds, that, being nouriſh'd by <hi>Licentiouſneſſe,</hi> It bounds to the heighth of all <hi>Impiety;</hi> Chriſt that was the <hi>Prince of Peace,</hi> choſe as well ſome to be <hi>Sonnes of thun<g ref="char:EOLhyphen"/>der,</hi>
+               <note place="margin">Eſa 9. 6. Mar. 3. 17. Act. 4. 36</note> as He had others for <hi>Conſolation<g ref="char:punc">▪</g>
+               </hi> and ſometimes ſharp<g ref="char:EOLhyphen"/>ly to reprove and correct, is as a favour done to many, which like a Thunder bolt that ſtrikes but one, yet fills with Horror the Hearts of All men.</p>
+            <p>The World is now in its decrepid age, and were it not ſupported by thoſe Crutches, the <hi>Staffe of Beauty<g ref="char:punc">▪</g>
+               </hi> and the<note place="margin">Zach. 11. 10.</note> 
+               <hi>Staffe of Bonds,</hi> It would even ſink with its own Burthen. All the groſſe humors of former times are fallen downe into the leggs; And where the <hi>Bonds of Love</hi> and Duty faile, there muſt the <hi>Staffe of Government</hi> ſupply, yet ſo, that as <hi>
+                  <g ref="char:V">Ʋ</g>alentinian</hi> the Emperour, firſt being married to <hi>Severa,</hi> and after that, enamoured on <hi>Iuſtina,</hi> ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cht with Her too, and kept them both at once; So muſt it be with <hi>Severity</hi> and <hi>Iuſtice; Dura</hi> muſt remember that ſhe's <hi>Ma<g ref="char:EOLhyphen"/>ter,</hi> and that her ſiſter <hi>Pia</hi> muſt dwell with her, as <hi>Rachel</hi> and <hi>Lea</hi> the wives of <hi>Iacob,</hi> as <hi>Mary</hi> and <hi>Martha</hi> under one roofe, as <hi>Mercy</hi> and <hi>Truth</hi> that met together, as <hi>Righ<g ref="char:EOLhyphen"/>teouſneſſe</hi>
+               <note place="margin">Pſal 85. 10.</note> and <hi>Peace</hi> that kiſt each other; like <hi>Abraham</hi> going to Sacrifice his Sonne with the Sword of Juſtice in the one hand, and the fire of Charity in the other.</p>
+            <p>When God appeared to <hi>Elias</hi> in Mount <hi>Horeb, Hee was</hi>
+               <note place="margin">2 <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a Mater.</hi> 1 King. 19. 12.</note> 
+               <hi>not in the winde that did rend the Mountaines, nor in the Earthquake,</hi> nor in the fire, but came unto him in a ſtill ſoft voyce; when He chaſtiſed <hi>Adam</hi> in Paradiſe, it was <hi>in the</hi>
+               <note place="margin">Gen. 3. 8.</note> 
+               <hi>Evening, in the coole of the Day,</hi> and the <hi>Sunne was but riſen</hi>
+               <note place="margin">Gen. 19. 23. 24.</note> 
+               <hi>upon the Earth,</hi> when the Lord rained upon <hi>Sodome</hi> and <hi>Gomorrha</hi> Brimſton &amp; Fire from the Lord out of Heaven:
+<pb n="11" facs="tcp:157085:9"/> for who ſhall be able to ſtand before him walking like a Grant in his full ſtrength?</p>
+            <p>Amongſt thoſe thirteen divine Attributes, <hi>Exod.</hi> 34. 6. there was but one that named his <hi>power,</hi> but onely two that concern'd his <hi>Iustice,</hi> and All the reſt were of <hi>Mer<g ref="char:EOLhyphen"/>cie</hi>
+               <note place="margin">Exod. 25. 40.</note> 
+               <hi>and Goodneſſe:</hi> As God ſpake <hi>to Moſes in the Mount, Fac ad ſimilitudinem &amp; exemplar,</hi> So muſt it be the charge of thoſe that <hi>beare his Image and Superſcription,</hi> looke that thou doe after thy paterne. Hee that made the whole<note place="margin">Ioſ. 6.</note> world in ſix-dayes, tooke ſeaven dayes to deſtroy one Ci<g ref="char:EOLhyphen"/>tie, and they that are his ſtamp and character, muſt not ſeek to be like unto him, either in the <hi>Arme</hi> of his power and ſtrength, or in the <hi>Finger</hi> of his Miracles &amp; Wonders, or in the <hi>Braines</hi> of his infinite Wiſdome, but in his <hi>Bowels</hi> of Pittie and Compaſſion.</p>
+            <p>Exact and ſtrict were the Rabbins of the Jewes; in ob<g ref="char:EOLhyphen"/>ſerving the properties of their Judges, as that they ſhould be free from all blemiſh of Body, that they ſhould be skild in the ſeventy languages, that they ſhould not be too farre ſtriken in yeares, that they ſhould be men of Wiſe<g ref="char:EOLhyphen"/>dome and Knowledge, amongſt others, they would not admit of an Eu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch, becauſe that ſuch men were com<g ref="char:EOLhyphen"/>monly cruell, nor of any but ſuch as were Fathers of Children, which they thought to be a motive to Mercy.</p>
+            <p>Men in Authority ſhould be like the Planets <hi>quò altio<g ref="char:EOLhyphen"/>res eo ſedatiores,</hi> and not like <hi>Ariſtides</hi> that was too juſt. <hi>Phaeton</hi> the ſonne of the Sunne, riding in the Chariot of his Father, is a Mythologie of all ſuch, as ſit in the Throne of him who ſaith, <hi>Vengeance is mine, and I will repay it,</hi>
+               <note place="margin">Rom 12. 19. Mal. 4. 2. Pſal.</note> Chriſt, he is the <hi>Sunne of Righteouſneſſe,</hi> The <hi>Chariots of the Lord</hi> are twenty thouſand, and they that rule them are Gods on earth, called the Children of the moſt high, ſtiled with the title of the ſonnes of God; <hi>And good luck have</hi>
+               <note place="margin">Pſal. 45. 5.</note> 
+               <hi>they with their honour,</hi> according to their worſhip and renowne, to ride on becauſe of the word of Truth: but not to be too buſie with the ſpurre, rather to make uſe of
+<pb n="12" facs="tcp:157085:10"/> the reines then of the Whip, not to turn to the right hand or the left, not to ſtray from the path of the juſt, and in their Progreſſe to keepe the Rode, not to miſtake <hi>Plaeen<g ref="char:EOLhyphen"/>tia</hi> for <hi>Verona.</hi>
+            </p>
+            <p>
+               <hi>Sylla</hi> that was ſurnamed <hi>Foelix,</hi> thought himſelfe to be the more happy for the friendſhip that hee held with <hi>Metellus</hi> named <hi>Pius.,</hi> ſo let it be their Crowne, their Glory; <hi>to remember thoſe that are in Bonds,</hi> with the<note place="margin">Heb. 13 3. Col. 3 12</note> Bowels of Piety, Kindneſſe, Meekneſſe; To be as their Fa<g ref="char:EOLhyphen"/>ther in Heaven is, Mercifull; To look upon the wounded and afflicted, and to pittie the friendleſſe and oppreſſed; <hi>Yet not to reſpect the perſon of the poore, nor yet to honour the</hi>
+               <note place="margin">Levit. 19 15.</note> 
+               <hi>perſon of the Mighty; But in righteouſneſſe ſhalt thou judge thy Neighbour.</hi> And thus as <hi>Papyrius</hi> at the Gate of the Senate, I have ſet up the Image of <hi>Mercy,</hi> with another of <hi>Iuſtice</hi> ſtanding by it.</p>
+            <p>
+               <hi>Senſus Communis</hi> is the next that doth preſent it ſelfe<note place="margin">3. Senſus com<g ref="char:EOLhyphen"/>munis.</note> unto your view, ſitting as a Judge in the Gates of the Ci<g ref="char:EOLhyphen"/>tie, and taking the Appeales from all outward objects; yet (as being in the ſubſtance of the Braine) it is deprived of all ſenſe and feeling. <hi>Nec unquam apprehendit objectum ſub ratione jucundi vel moleſti.</hi> Which bids Authority to be the like; and as it was the manner of the <hi>Thebans</hi> to portrait their Princes blinde, and their Iudges aſſiſting without hands; So not to cenſure by an outward appea<g ref="char:EOLhyphen"/>rance, nor yet to be corrupted in their wayes.</p>
+            <p>
+               <hi>Nerva</hi> was wont to ſay of himſelfe, <hi>Se nihil fec iſſe quò minus poſſit imperio depoſito privatus tuto vivere.</hi> Princes Examples are ſpeaking lawes, bidding (as <hi>Abime<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ech</hi> ſomtimes) what yee ſee one doe, doe yee likewiſe.</p>
+            <p>Thoſe heretofore that ſate at Sterne, and rul'd the Rud<g ref="char:EOLhyphen"/>der of the Common-wealth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had while they were in the ſeat of Iudgement, their ſolemne Habits to be furr'd with <hi>Ermins,</hi> which little Creature in the Hunting, finding the Mouth of it's Cave to bee bedirted, doth rather yeeld it ſelfe to be a prey, then to pollute it's skinne with filth
+<pb n="13" facs="tcp:157085:10"/> and mud; An Emblem calling unto them in thoſe words, <hi>Mallem mori quàm <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> as <hi>Adams</hi> skinn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he wore de<g ref="char:EOLhyphen"/>clared his fall.</p>
+            <p>Rewards and gifts are like an <hi>Incubus,</hi> which over<g ref="char:EOLhyphen"/>layes the judgement of the wiſe, whilſt Avarice (an en<g ref="char:EOLhyphen"/>vious <hi>Philiſtim</hi>) comes with his earth to choak up <hi>Iſaaks</hi>
+               <note place="margin">Gen 26. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 20. 21.</note> Well, and leaves us to the Springs of <hi>Eſeck</hi> and <hi>Sitnah,</hi> none but the waters of ſtrife and contention. This done, you ſhall have them (like <hi>Aethiopians</hi> that uſually doe paint their Angels black in favour of their owne com<g ref="char:EOLhyphen"/>plexion) to runne point-blank the Courſe of Equity, to damme up the paſſages of right and reaſon, and ſo to be<g ref="char:EOLhyphen"/>take them to new quirks and quaeries, with thoſe <hi>Aſtro<g ref="char:EOLhyphen"/>logers</hi> that make good their motions by finding out ſtrange <hi>Notions</hi> and <hi>Intentions, Eccentricks, Epicicles,</hi> and the like.</p>
+            <p>The Lord our God is a God of Gods, a Great, Almigh<g ref="char:EOLhyphen"/>ty,<note place="margin">Deut 10. 7.</note> and a terrible, regarding neither Perſons nor Rewards, and thoſe that are <hi>Minores Dij,</hi> when they paſſe ſentence upon others, ought to be like <hi>Mathematicians,</hi> onely converſing in Abſtractions: Not to weare on them the Robes of Iuſtice as dead-mens Coffins are beſtrewed with flowers, not to be ſpeechleſſe in the poore mans cauſe, as if neceſſity ſhould have no law; not to be like the Idols of the Heathen, with eyes and eares that neither heare nor ſee; nor like the <hi>Griffin</hi> to floare their neſts with gold, and then to cenſure for the Mighty, as if in caſe <hi>pro formâ pauperis, Bos in linguâ</hi> (as it is in the Proverb:) their tongues were hung up to the roofe of their mouthes, and their ſoules poſſeſſed with a dumb devill: <hi>Surdaſter erat Marcus Craſſus, ſed illud pejus quod male audiebat:</hi> And tis the <hi>memoriall of the just that ſhall be bleſſed when the name of the wicked ſhall r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> It is a Criticiſme amongſt the <hi>Gra<g ref="char:EOLhyphen"/>marians,</hi> that <hi>Falſus</hi> in the paſſive, and not <hi>Fallens,</hi> doth ſignifie a double and deceitfull man, for that the miſchiefe of his owne lips doth at laſt fall upon his owne pate, and
+<pb n="12" facs="tcp:157085:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:157085:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:157085:12"/> whilſt bee ſaith with himſelfe. None ſees me; but God Hee ſtandeth in the Congregation of the Prince, and He will be a Iudge amongſt the Gods, who layes his eare unto their whiſperings in their moſt ſecret conſultations; Be<g ref="char:EOLhyphen"/>ſides, Suſpition like a well-drawn Picture ſeemes to look after them where ere they goe. and not a ſervant, if a Fa<g ref="char:EOLhyphen"/>vorite, but's thought to be a Poſterne for a Bribe. Laſtly, they are deceived in their Hopes, with him who in his vaine opinion <hi>Corpus putat eſſe quod umbra est,</hi> and proſti<g ref="char:EOLhyphen"/>tutes Deſire to a Dreame. When the Prophet in the ſixth of <hi>Zacha<g ref="char:punc">▪</g>
+               </hi> ſaw the Viſion of the foure Emperies, He asked of the Angell, <hi>Qui ſunt iſti?</hi> who told him, <hi>Iſti ſunt qua<g ref="char:EOLhyphen"/>tuor</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 6. 5.</note> 
+               <hi>venti,</hi> To ſhew that all the Worlds pomp and glory is but a puffe, a blaſt, a breath. Corruption for a time may be concealed, and folded up in the large pleats of Honour; Great men may ſhine on high like glorious lights, as long as greatneſſe is obſerved with feare; Yet at the laſt, when Death ſhall blow them out, their farewell ſhall be naſtie, noyſome, loathſome, like an ill ſavouring and ſtinking ſnuffe, that gives offence to all that are about it. Let <hi>Foe<g ref="char:EOLhyphen"/>lix</hi>
+               <note place="margin">Act 24. 26.</note> hope that money ſhould be given, <hi>Juſtus</hi> will be a<note place="margin">Act. 18. 17.</note> man that worſhips God, whoſe houſe was joyned to the Synagogue.</p>
+            <p>Having thus brought you through the firſt Region, in<note place="margin">4. Phantaſie.</note> the next roome doth <hi>Phantaſie</hi> ſit to judge each <hi>Species,</hi> where Imagination transformes them like unto <hi>Ixions</hi> cloud, and runs them through a thouſand ſeverall ſhapes, that ſo they might avoyd the embracements of Error; which doth inferre that ſaying in the Schooles, <hi>Apprehen<g ref="char:EOLhyphen"/>ſio objecti ab intellectu ſemper est ſub ratione veri:</hi> And yet <hi>all wiſedome commeth from the Lord</hi> (as <hi>Pallas</hi> was borne<note place="margin">Ecclus. 1. 1.</note> of the Brain of <hi>Jupiter</hi>) and as ſhee was clad in compleat Armour, ſo Hee that puts on the <hi>whole Armour of God,</hi>
+               <note place="margin">Eph. 6. 11. Wiſd 5. 18. Job 31. 20.</note> muſt put on <hi>Righteouſneſſe as a Breſt-plate, and true Iudge<g ref="char:EOLhyphen"/>ment in ſtead of an Helmet:</hi> ſo ſhall the <hi>loynes of the naked bleſſe him,</hi> the Tongues of the Poore be trumpets of his
+<pb n="15" facs="tcp:157085:12"/> praiſe, and the Hearts of All men Honour him.</p>
+            <p>When the King of <hi>Mexico</hi> comes firſt to the Crowne, He taketh with it a ſolemne Oath, <hi>Iudicium ſe adminiſtra<g ref="char:EOLhyphen"/>turum, effecturum ut Sol curſum teneat, Nubes pluant, rivi currant, terra producat fructus, &amp;c.</hi> Meaning that <hi>Iuſtice</hi>
+               <note place="margin">Pſal 45. 14 15.</note> like the Kings daughter, attended by thoſe Virgins that be her followers, is never ſeene alone without her traine,<note place="margin">Deut. 27.</note> 
+               <hi>Bleſſings</hi> in the Citie, and Bleſſings in the field, Bleſſings in the fruits, and Bleſſings in the flocks, Bleſſings within dores, and Bleſſings without; all theſe Bleſſings ſhall overtake her, when like an exquiſite and cunning Orga<g ref="char:EOLhyphen"/>niſt ſhè toucheth truly, and according unto Art, when the Spirit of God ſhall be the blaſt that giveth Breath unto the Inſtrument,</p>
+            <q>—<hi>Iuſtitiae ſoror Incorrupta fides nudaque veritas,</hi>
+            </q>
+            <p>And every one ſhould be unto a Iudge as <hi>Tacitus</hi> ſpeaks of <hi>Tiberius</hi> and <hi>Claudius, Nec Beneficio, uec injuria cognit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Whence <hi>Cleon,</hi> being made a publike Magiſtrate, and ha<g ref="char:EOLhyphen"/>ving aſſembled his acquaintance, diſclaimed in the pre<g ref="char:EOLhyphen"/>ſence of them all, all former intereſt, all future friend<g ref="char:EOLhyphen"/>ſhip, and bid's adieu to all inward Amity as moſt incom<g ref="char:EOLhyphen"/>patible with his charge; For Hee puts off the perſon of a friend that undergoes that other of a Iudge. And if it be ſo in the Tents of <hi>Meſech,</hi> what muſt be done in the Dwellings of <hi>Jacob. Lucian</hi> obſerves it in Stage-players, that if a man miſact a Servants part, it is a ſlip not worth the talking of; But if in <hi>Jupiter</hi> or <hi>Hercules,</hi> the fault is foule and doth diſgrace the <hi>Scene.</hi> How much more then is his reproach and ſhame, that doth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, not an earth<g ref="char:EOLhyphen"/>ly Prince, but Him that is the King of Heaven and Earth, <hi>For the Judgement is Gods,</hi> ſaith <hi>Moſes</hi> his ſervant, <hi>Deut.</hi> 1. 17.</p>
+            <p>And though hee be neere unto Malefactors, about their<note place="margin">Pſal. 139. 2.</note> pathes, and about their beds, and underſtandeth the thoughts of their hearts, yet in the Crie of <hi>Sodom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and
+<pb n="16" facs="tcp:157085:13"/> 
+               <hi>Gomorrha</hi> (to leave us an Example of his Iuſtice) <hi>I will goe down</hi> (ſaith he) <hi>and ſee whether it be altogether ſo or no;</hi>
+               <note place="margin">Gen. 18 21. Ecclus. 11. 7.</note> 
+               <hi>Then blame not before thou hast examined, underſtand firſt and then rebuke.</hi>
+            </p>
+            <lg>
+               <l>Qui ſtat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it aliquid parte in audita altera,</l>
+               <l>Aequum licet ſtat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erit, haud aequus fuit.</l>
+            </lg>
+            <p>In the Solemnities of former times, <hi>Linguas ultimam ſa<g ref="char:EOLhyphen"/>crificiorum partem in ſacros ignes conijciebant,</hi> the Tongue was the laſt that made up the Sacrifice; Be yee likewiſe <hi>ſwift to heare, ſlow to ſpeake, ſlow to wrath.</hi>
+               <note place="margin">Iam 1. 19.</note>
+            </p>
+            <p>It is a conceit that's grounded upon reaſon, That if God ſhould aſſume a viſible ſhape, hee would take <hi>Light</hi> to be his Body, and <hi>Truth</hi> ſhould be in ſtead of his Soule. <hi>Et dominus</hi> (as ſaith <hi>Tertull.) Non ſe conſuetudinem, ſed veritatem cognominavit;</hi> Hee then that <hi>beares the Image</hi>
+               <note place="margin">1 Cor. 15. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> 
+               <hi>of the Earthy, muſt alſo beare the Image of the Heavenly:</hi> And <hi>give thou ſentence with them O God, ſend out thy light,</hi>
+               <note place="margin">Pſal. 43. 3.</note> 
+               <hi>and thy Truth to lead them.</hi>
+            </p>
+            <p>Now as <hi>Joachim</hi> the high Prieſt charged the Inhabi<g ref="char:EOLhyphen"/>tants<note place="margin">5. The five ſenſes.</note> of <hi>Bethulia</hi> to gard the paſſages of the Mountaines: ſo for the ſafegard of this Citadell, wee muſt fortifie the <hi>Cinque-Ports</hi> of the ſenſes, for there lyes the way to the ſeat of Iudgement.</p>
+            <p>Firſt, for <hi>the Sight,</hi> the <hi>Opticks</hi> doe require, <hi>ut medium</hi>
+               <note place="margin">1. The Sight</note> 
+               <hi>ſit recte diſpoſitum &amp; ut Organon ſit benè ordinatum.</hi> If the glaſſe in the ſpectacles be painted yellow, each object will appeare in the ſame colour; and if the Eye be ſick of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aundiſe, it infects all that look upon it; Counſell, Iu<g ref="char:EOLhyphen"/>rie, Witneſſes, Officers, Corruption, like a Plague, will taint them all, and ſearch like oyle into every joynt, till poyſon cramp the powers of the Soule, till Reaſon plead without Law or Equity, till Conſcience be charm'd into a deadly ſleepe, and till Religion connive it ſelfe ſtark blind, like the people <hi>Arimaſpi</hi> in <hi>Sythia,</hi> that wink, and wink, ſo long with one eye, untill at laſt they have winkt it out, and then <hi>no mervaile, when their Eye is evill, if</hi>
+               <note place="margin">Math. 6. 23.</note>
+               <pb n="17" facs="tcp:157085:13"/> 
+               <hi>their whole Body be full of Darkneſſe.</hi>
+            </p>
+            <p>For the <hi>Hearing,</hi> it is obſerved by Saint <hi>Origen,</hi> that the<note place="margin">2. The Hea<g ref="char:EOLhyphen"/>ring. Levit. 14. 14.</note> right eare, in the clenſing of the Leper, was the firſt that was touched with the blood of the Sacrifice, as a meanes to purifie the reſt of his actions, <hi>Auris prima mortis Ianua, prima aperiatur &amp; vitae,</hi> And Nature (after the faſhion of the head) hath likewiſe planted two eares in the Heart, that whatſoever enters at the one, might alſo be received by the other, <hi>Then hee that hath eares to heare let him</hi>
+               <note place="margin">Math. 13. 9.</note> 
+               <hi>heare.</hi>
+            </p>
+            <p>For the <hi>ſmelling, ſuavis odor lucri,</hi> Yet as <hi>Plinie</hi> of the<note place="margin">3. The Smel<g ref="char:EOLhyphen"/>ling</note> herbe <hi>Ariana,</hi> though it be of an excellent ſent, it hath in every leafe a little Serpent, whoſe ſting brings preſent Death to all that touch it. Hee that plucketh up the bounders of the Law, <hi>Hee that breaketh an Hedge a Ser<g ref="char:EOLhyphen"/>pent</hi>
+               <note place="margin">Eccle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10. 8.</note> 
+               <hi>ſhall bite him.</hi>
+            </p>
+            <p>The Heart is ſeated in the <hi>Centre</hi> of the Breſt, with a<note place="margin">45. Of Touch<g ref="char:EOLhyphen"/>ing and Taſt<g ref="char:EOLhyphen"/>ing.</note> curious net of Nerves and Veines, ſpred from thence over all the Body; And as the <hi>Spider</hi> in the middeſt of her web, feeling the leaſt <hi>touch</hi> that ſhakes her work: So ſhould the Soule ſhrink, and retire, at the leaſt <hi>tast,</hi> and <hi>touch</hi> of ſinne, <hi>Abſtaine from all appearance of evill.</hi>
+               <note place="margin">1 Theſ. 5. 22.</note>
+            </p>
+            <p>I have done with the <hi>ſenſes externall,</hi> and <hi>internall,</hi> there now remaines no more to be ſeene, but onely the <hi>reten<g ref="char:EOLhyphen"/>tive</hi> ſtrength of the <hi>Memory,</hi> which lies in the hinder<g ref="char:EOLhyphen"/>moſt Region of the Braine, and in the laſt part of my diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>
+               <hi>Memoria eſt Aerarium anima,</hi> It is the <hi>Storehouſe</hi>
+               <note place="margin">6. Memoria.</note> and <hi>Chequer</hi> of the ſoule: And albeit <hi>Humility</hi> and <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> with the Aſpect of ſuch a light appearing at this time, in this Meridian, tells me that is but needleſſe labour, <hi>Yet let not my Lords be angry,</hi> If with the poore Widow in the<note place="margin">Gen. 18.</note> Goſpell I caſt my mites into the Treaſurie.</p>
+            <p>To <hi>remember</hi> you in the words of <hi>Salomon,</hi> that <hi>the eyes</hi>
+               <note place="margin">Prov. 15. 3.</note> 
+               <hi>of the Lord are in every place to behold the evill and the good;</hi> could we take Darkneſſe for a Mask, and the Night for a
+<pb n="18" facs="tcp:157085:14"/> covering to our ſecrets; could wee clime up into the top of Carmel, or dive into the bottome of the Sea, could we digg downe into the neithermoſt Hell, and hide our acti<g ref="char:EOLhyphen"/>ons in the aſhes of Tophet, yet all our thoughts, our words, our wayes, our reines, our bones, our mothers wombs, All things are naked in his ſight; then think (with trembling) what a madneſſe it is, to ſhunne the ſight of a ſilly man, and not to feare the preſence of the Lord, <hi>Et quis fur au<g ref="char:EOLhyphen"/>deret furari, ſi ſciret à Judice ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> videri.</hi>
+            </p>
+            <p>To <hi>remember</hi> you that you ſhall die like men, That <hi>the</hi>
+               <note place="margin">Pſal 82. 7. Dan. 2.</note> 
+               <hi>golden head hath a foot of clay,</hi> That the faire colours of pomp and power, ſhall in a ſhort time ſtarve and vaniſh.</p>
+            <p>To <hi>remember</hi> you of that unconſolable Night, in the which you ſhall lie ſtrugling with Death, not able to re<g ref="char:EOLhyphen"/>move a little fleame t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at's ready to choak up your vitall ſpirits; when all your ſenſes ſhall be agaſt, your phanta<g ref="char:EOLhyphen"/>ſie aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighted, your thoughts amazed, and your ſelves ſlighted by your Deareſt Friends, in ſtrongeſt conſultation for the ſpoile, when you moſt need their help &amp; comfort.</p>
+            <p>To <hi>remember</hi> you that <hi>mighty men ſhall likewiſe be migh<g ref="char:EOLhyphen"/>tily</hi>
+               <note place="margin">Wiſd. 6. 6.</note> 
+               <hi>tormented,</hi> gored with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of a wounded conſci<g ref="char:EOLhyphen"/>ence, and call'd to account for every Soule that hath been murthered, perjured, poyſoned with miſinterpretation of the Law.</p>
+            <p>To <hi>remember</hi> you of <hi>that great white Throne,</hi> from<note place="margin">Rev. 20. 11. 12.</note> whoſe preſence the Heavens and the Earth did ſeeke and could not find a place to hide them.</p>
+            <p>To <hi>remember</hi> you of that <hi>gastly Dragon,</hi> and that <hi>huge gulph</hi> of Fire and Brimſtone, of that full flood of the wrath of the Lord, A fire which as nothing doth feed it: ſo it conſumeth nothing that it burneth. A place affording no<g ref="char:EOLhyphen"/>thing but Horror, Tormenting Devils, burning Soules, Roring and lamenting with woe, and alas, weeping, and howling, an gnaſhing of teeth.</p>
+            <p>And now in the Name of him that is able to reach the ſtrongeſt by the meaneſt, &amp; ſend wiſe <hi>Salomon</hi> to Schoole
+<pb n="19" facs="tcp:157085:14"/> the <hi>Raven,</hi> that I may conclude in the words of Saint <hi>Paul, I charge you before God and our Lord Jeſus Chriſt, and</hi>
+               <note place="margin">1 Tim. 5. 21.</note> 
+               <hi>before all his Elected Angels, That yee obſerve and doe theſe things without preferring one before another, and doing nothing by partiality.</hi>
+            </p>
+            <p>That ſo unto him who can keepe you from falling, to<note place="margin">Jude 24. 26.</note> preſent you faultleſſe before his preſence, All Glory, and Majeſtie, Dominion, and Power, be given both now and for evermore, AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>May 29. 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>THO. WYKES.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
